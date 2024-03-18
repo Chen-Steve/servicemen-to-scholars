@@ -22,15 +22,15 @@ Highlight how to use the website, emphasizing key features and user interaction 
 ```markdown
 ## Features and Usage
 
-- **User Dashboard:** Upon logging in, users can access their personalized dashboard to manage their scholarship applications and receive recommendations.
-- **Scholarship Database:** Users can browse and apply for scholarships through a centralized database, tailored to their eligibility and preferences.
-- **Personalized Assistance:** With our GPT-powered assistant, users receive customized guidance and answers to their educational queries.
+- User Dashboard: Upon logging in, users can access their personalized dashboard to manage their scholarship applications and receive recommendations.
+- Scholarship Database: Users can browse and apply for scholarships through a centralized database, tailored to their eligibility and preferences.
+- Personalized Assistance: With our GPT-powered assistant, users receive customized guidance and answers to their educational queries.
 
 ### Navigation Guide
 
-1. **Sign Up/Login:** Access the platform by creating an account or logging in.
-2. **Browse Scholarships:** Use the scholarship database to find and apply for scholarships.
-3. **Ask Questions:** Interact with our GPT-powered assistant for personalized support.
+1. Sign Up/Login: Access the platform by creating an account or logging in.
+2. Browse Scholarships: Use the scholarship database to find and apply for scholarships.
+3. Ask Questions: Interact with our GPT-powered assistant for personalized support.
 ```
 ## Support
 
