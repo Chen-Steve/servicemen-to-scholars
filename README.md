@@ -15,11 +15,6 @@ Servicemen to Scholars is a non-profit initiative dedicated to assisting veteran
 
 Our goal is to streamline the transition from service to scholarship, making higher education more accessible and tailored to the unique needs of veterans.
 
-
-### Features and Usage
-Highlight how to use the website, emphasizing key features and user interaction points.
-
-```markdown
 ## Features and Usage
 
 - User Dashboard: Upon logging in, users can access their personalized dashboard to manage their scholarship applications and receive recommendations.
@@ -31,7 +26,7 @@ Highlight how to use the website, emphasizing key features and user interaction 
 1. Sign Up/Login: Access the platform by creating an account or logging in.
 2. Browse Scholarships: Use the scholarship database to find and apply for scholarships.
 3. Ask Questions: Interact with our GPT-powered assistant for personalized support.
-```
+
 ## Support
 
 If you encounter any issues or have suggestions, please open an issue on GitHub or contact us directly at [support@servicementoscholars.com](mailto:support@servicementoscholars.com).
